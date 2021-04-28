@@ -1,10 +1,10 @@
 # Hi, i'm Nadia Klokova :wave:
 
 ##  :woman_technologist: About me
-After 12 years of working in retail in the field of visual merchandising, I have decided to take a 180° turn in my professional career.</br>
-Why not? I like challenges. :smile:
+:convenience_store: After 12 years of working in retail in the field of visual merchandising,</br>  :rocket: I have decided to take a 180° turn in my professional career.</br>
+:mechanical_arm: Why not? I like challenges.  :smile:
 
-- I consider myself a creative person, wanting to learn and i like teamwork.
+:art: I consider myself a creative person, wanting to learn and i like teamwork.
 
 
 
