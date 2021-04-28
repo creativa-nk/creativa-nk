@@ -6,7 +6,7 @@
 
 :pushpin: Currently learning about **UX/UI** and **web design**.
 
-:art: I consider myself a **creative** person, **wanting to learn** and i like **teamwork.** </br>
+:art: I consider myself a **creative** person, **wanting to learn** and i like **teamwork.** </br></br>
  
 
 ## 🛠 &nbsp;Tech Stack:
