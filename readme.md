@@ -7,7 +7,7 @@
 
 :pushpin: Currently learning about **UX/UI** and **web design**.
 
-:art: I consider myself a **creative** person, **wanting to learn** and i like **teamwork.** </br></br>
+:art: I consider myself a **creative** person, **wanting to learn** and i like **teamwork.** </br>
  
 ## 🛠 Tech Stack:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -18,11 +18,10 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;</br></br>
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;</br>
 
 ## :gear: GitHub Analytics
-![GitHub status](https://github-readme-stats.vercel.app/api?username=creativa-nk&show_icons=true&hide_border=true&&count_private=hide&include_all_commits=true&custom_title=My%20GitHub%20stats&theme=radical&hide=prs,issues)</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creativa-nk&layout=compact&theme=radical)</br>
+![GitHub status](https://github-readme-stats.vercel.app/api?username=creativa-nk&show_icons=true&hide_border=true&&count_private=hide&include_all_commits=true&custom_title=My%20GitHub%20stats&theme=radical&hide=prs,issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creativa-nk&layout=compact&theme=radical)</br>
 
 ## 🤝🏻 Connect me
 [![Linkedin](https://img.shields.io/badge/nadia-klokova-91a672a7?style=flat&logo=linkedin&color=blue)](https://www.linkedin.com/in/nadia-klokova-91a672a7/?locale=es_ES)
