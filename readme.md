@@ -8,6 +8,6 @@
 
 
 
-![GitHub status](https://github-readme-stats.vercel.app/api?username=creativa-nk&show_icons=true&hide_border=true&&count_private=hide&include_all_commits=true&custom_title=My%20GitHub%20stats&theme=radical&hide=prs,issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creativa-nk&layout=compact&theme=radical&line_height=35)
+![GitHub status](https://github-readme-stats.vercel.app/api?username=creativa-nk&show_icons=true&hide_border=true&&count_private=hide&include_all_commits=true&custom_title=My%20GitHub%20stats&theme=radical&hide=prs,issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creativa-nk&layout=compact&theme=radical)
 
 
