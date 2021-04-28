@@ -20,7 +20,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;</br></br>
 
 ## :gear: GitHub Analytics
-![GitHub status](https://github-readme-stats.vercel.app/api?username=creativa-nk&show_icons=true&hide_border=true&&count_private=hide&include_all_commits=true&custom_title=My%20GitHub%20stats&theme=radical&hide=prs,issues)
+![GitHub status](https://github-readme-stats.vercel.app/api?username=creativa-nk&show_icons=true&hide_border=true&&count_private=hide&include_all_commits=true&custom_title=My%20GitHub%20stats&theme=radical&hide=prs,issues)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creativa-nk&layout=compact&theme=radical)</br>
 
 ## 🤝🏻 Connect me
