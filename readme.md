@@ -1,3 +1,4 @@
+![readme](https://user-images.githubusercontent.com/73602608/116480372-84f79e00-a881-11eb-8f4c-faa2fa425e51.png)
 # Hi, i'm Nadia :wave:
 
 ##  :woman_technologist: About me
