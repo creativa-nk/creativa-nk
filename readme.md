@@ -5,7 +5,7 @@
 :convenience_store: After 12 years of working in retail in the field of visual merchandising,</br>  :rocket: I have decided to take a 180° turn in my professional career.</br>
 :mechanical_arm: Why not? **I like challenges.**  :smile:
 
-:pushpin: Currently learning about **UX/UI** and **web design**.
+:pushpin: Currently learning about **design UX/UI** and **FIGMA**.
 
 :art: Well-organised person, problem solver, autodidact forever, work with high attention to detail, like teamwork, I consider myself a creative person. </br>
  
